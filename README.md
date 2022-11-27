@@ -21,6 +21,8 @@ This repository stores task solutions of BioInformatics course of autumn 2021.
 0. 5_2.py - *Greedy Motif Search*
 0. 5_3.py - *Greedy Motif Search with pseudocounts*
 0. 6_1.py - *Change Problem*
+0. 6_2.py - *Manhattan Tourist Problem*
+0. 6_3.py - *Longest Common Subsequence Problem*
 
 
 © Copyright Sidorova Alexandra, 2022
