@@ -23,6 +23,9 @@ This repository stores task solutions of BioInformatics course of autumn 2021.
 0. 6_1.py - *Change Problem*
 0. 6_2.py - *Manhattan Tourist Problem*
 0. 6_3.py - *Longest Common Subsequence Problem*
+0. 7_1.py - *Global Alignment Problem*
+0. 7_2.py - *Local Alignment Problem*
+0. 7_3.py - *Edit Distance Problem*
 
 
 © Copyright Sidorova Alexandra, 2022
