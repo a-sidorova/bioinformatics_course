@@ -26,6 +26,10 @@ This repository stores task solutions of BioInformatics course of autumn 2021.
 0. 7_1.py - *Global Alignment Problem*
 0. 7_2.py - *Local Alignment Problem*
 0. 7_3.py - *Edit Distance Problem*
+0. 8_1.py - *String Composition Problem*
+0. 8_2.py - *String Spelled by a Genome Path Problem*
+0. 8_3.py - *Overlap Graph Problem*
+0. 8_4.py - *The De Bruijn Graph from a String Problem*
 
 
 © Copyright Sidorova Alexandra, 2022
