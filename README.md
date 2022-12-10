@@ -30,6 +30,9 @@ This repository stores task solutions of BioInformatics course of autumn 2021.
 0. 8_2.py - *String Spelled by a Genome Path Problem*
 0. 8_3.py - *Overlap Graph Problem*
 0. 8_4.py - *The De Bruijn Graph from a String Problem*
+0. 9_1.py - *Eulerian Cycle Problem*
+0. 9_2.py - *Eulerian Path Problem*
+0. 9_3.py - *String Reconstruction Problem*
 
 
 © Copyright Sidorova Alexandra, 2022
